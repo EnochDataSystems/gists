@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Magento2 Admin System Message Fix
+// @name         Magento2 Admin systemMessageBlock Fix
 // @namespace    https://data.enoch.systems/
 // @version      0.1
-// @description  Tamper Monkey script that prevents the system messages block in the Magento2 admin from pushing down elements in the page
+// @description  Tamper Monkey script that prevents the systemMessageBlock in the M2 admin from pushing down elements in the page
 // @author       Enoch Data Systems
 // @match        http*://your.domain.com/path_to/admin/*
 // @run-at       document-end
